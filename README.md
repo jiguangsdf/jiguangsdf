@@ -13,4 +13,4 @@ Hi, I eat ...
 - improve Security for the Ethereum Ecosystem
 - review complex Smart Contract Systems and Off-Chain components
 - research new attack vectors
-- buidl useful Tools to satisfy the lazy efficiency monk in me
+- build useful tools
