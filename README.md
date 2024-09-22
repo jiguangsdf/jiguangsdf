@@ -1,13 +1,13 @@
 ![](https://media1.giphy.com/media/ieaUdBJJC19uw/200.webp?cid=ecf05e47cmnjal9q24yrgifjx1aumi0wk7c4vomqzfqjq2by&rid=200.webp)
 
-Life is magic. coding is art. security is dynamic. // Security Researcher
+Life is magic. Coding is art. Security is dynamic. 
 
-Creator of [binenet.com](https://www.binenet.com) // Security Researcher
+Creator of [binenet.com](https://www.binenet.com) 
 
 > Company
 
-- 2017/7 [Knownsec](https://www.knownsec.com/#/)
-- 2023/3 [Binenet](https://www.binenet.com)
+- 2017/7 [Knownsec](https://www.knownsec.com/#/) // Security Researcher
+- 2023/3 [Binenet](https://www.binenet.com) // Security Researcher
 
 > Specialized Expertise
 
