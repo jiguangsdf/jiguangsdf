@@ -11,6 +11,7 @@ Creator of [binenet.com](https://www.binenet.com)
 
 > Specialized Expertise
 
+- Blockchain Security
 - Web Security
 - Secure Development
 - Code Audit
