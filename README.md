@@ -2,8 +2,6 @@
 
 Life is magic. Coding is art. Security is dynamic. 
 
-Creator of [binenet.com](https://www.binenet.com) 
-
 > Company
 
 - 2017/7 [Knownsec](https://www.knownsec.com/#/) // Security Researcher
